@@ -1,0 +1,13 @@
+@media (min-width: 960px) {
+    .mediares{
+        width: 25rem;
+    }
+
+    
+}
+@media (max-width: 960px) {
+    .mediares{
+        width: 18rem;
+    }
+    
+}
